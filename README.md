@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm MohammadRostam!</h1>
+<h1 align="center">Hi there 👋, I'm Mohammad Rostam !</h1>
 <p align="center">
 <br>
 </p>
-<h3 align="center">Student Master of Computer Engineering at Shahid Beheshti University</h3>
+<h3 align="center">Master of Science, Computer Engineering at Shahid Beheshti University</h3>
+<br/>
 <p style="display: inline-block;" align="center">
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
