@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm Mohammad Rostam !</h1>
+<h1 align="center">Hi there 👋, I'm Mohammad Rostami !</h1>
 <p align="center">
 <br>
 </p>
@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 </p>
 
 ### Contact me:
-<a href="https://github.com/MohammadRostami71" target="_blank"><img src="https://img.shields.io/badge/Github-Mohammad Rostami-green?style=for-the-badge&logo=github"></a>
-<a href="mailto:mohammad.rostami13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mohammad.rostami13@gmail@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:mohammad.rostami13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mohammad.rostami13@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 </p>
