@@ -3,7 +3,7 @@
 -->
 
 
-<h1 align="left">Hi 👋! My name is Mohammad Rostami and I'm a Full Stack Web Developer</h1>
+<h1 align="left">Hi 👋! My name is Mohammad Rostami and I'm a FrontEnd Developer</h1>
 
 <h3 align="center">Master of Science, Computer Engineering at Shahid Beheshti University</h3>
 
